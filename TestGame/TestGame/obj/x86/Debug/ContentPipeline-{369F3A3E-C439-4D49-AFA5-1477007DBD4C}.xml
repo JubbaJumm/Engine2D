@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Content\brick_normals.jpg</Source>
+      <Name>Content\brick_normals</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\brick_normals.xnb</Output>
+      <Time>2015-02-23T09:44:58.3553512+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\brick_texture.jpg</Source>
+      <Name>Content\brick_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\brick_texture.xnb</Output>
+      <Time>2015-02-23T09:44:58.3573517+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\5406-normal.jpg</Source>
+      <Name>Content\5406-normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\5406-normal.xnb</Output>
+      <Time>2015-02-23T10:43:56.2374074+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\red.png</Source>
+      <Name>Content\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\red.xnb</Output>
+      <Time>2015-02-23T10:50:10.1191955+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\armored_steel_normal.jpg</Source>
+      <Name>Content\armored_steel_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\armored_steel_normal.xnb</Output>
+      <Time>2015-02-23T15:17:38.4848248+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\tempt.png</Source>
+      <Name>Content\tempt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\tempt.xnb</Output>
+      <Time>2015-02-23T15:24:39.8774842+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\basket.jpg</Source>
+      <Name>Content\basket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\basket.xnb</Output>
+      <Time>2015-02-23T16:01:29.5941174+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\basket_normal.jpg</Source>
+      <Name>Content\basket_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\basket_normal.xnb</Output>
+      <Time>2015-02-23T16:04:22.2687151+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\james_normal.jpg</Source>
+      <Name>Content\james_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\james_normal.xnb</Output>
+      <Time>2015-02-23T19:13:17.2302466+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\skin.jpg</Source>
+      <Name>Content\skin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\skin.xnb</Output>
+      <Time>2015-02-23T19:13:25.3852206+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Lighting.fx</Source>
+      <Name>Content\Lighting</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\Content\Lighting.xnb</Output>
+      <Time>2015-03-08T17:37:11.1133428+11:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{369F3A3E-C439-4D49-AFA5-1477007DBD4C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Matthew Rozek\Documents\Visual Studio 2013\Projects\Engine2D\TestGame\TestGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T15:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T15:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T15:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T15:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T15:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T15:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-11T10:52:39.9143381+11:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
