@@ -1,1 +1,0 @@
-C:\Users\Matthew Rozek\documents\visual studio 2013\Projects\Engine2D\TestGame\TestGameContent\obj\x86\Debug\TestGameContent.contentprojResolveAssemblyReference.cache
