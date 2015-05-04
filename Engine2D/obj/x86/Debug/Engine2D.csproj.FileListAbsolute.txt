@@ -1,6 +1,0 @@
-C:\Users\Matthew Rozek\documents\visual studio 2013\Projects\Engine2D\Engine2D\bin\x86\Debug\Engine2D.dll
-C:\Users\Matthew Rozek\documents\visual studio 2013\Projects\Engine2D\Engine2D\bin\x86\Debug\Engine2D.pdb
-C:\Users\Matthew Rozek\documents\visual studio 2013\Projects\Engine2D\Engine2D\obj\x86\Debug\Engine2D.csprojResolveAssemblyReference.cache
-C:\Users\Matthew Rozek\documents\visual studio 2013\Projects\Engine2D\Engine2D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Matthew Rozek\documents\visual studio 2013\Projects\Engine2D\Engine2D\obj\x86\Debug\Engine2D.dll
-C:\Users\Matthew Rozek\documents\visual studio 2013\Projects\Engine2D\Engine2D\obj\x86\Debug\Engine2D.pdb
